@@ -1,0 +1,11 @@
+type: default
+checker_type: testlib
+checker: checker.cc
+user_extra_files:
+- compile.sh  # 提交 Zip 包显然不需要编译。
+- execute.sh  # 运行时解压 Zip 包即可。
+cases:
+- input: 1.in # 提供测试点对应的文件名信息
+  output: /dev/null # 由spj判断，不需要标准答案
+- input: 2.in
+  output: /dev/null

@@ -1,0 +1,1 @@
+mv `ls | grep foo` foo # 无需编译，直接返回原文件即可

@@ -1,0 +1,60 @@
+type: default
+time: 1s
+memory: 512m
+filename: palin
+subtasks:
+  - score: 100
+    if: []
+    id: 1
+    type: sum
+    cases:
+      - input: palin1.in
+        output: palin1.ans
+      - input: palin2.in
+        output: palin2.ans
+      - input: palin3.in
+        output: palin3.ans
+      - input: palin4.in
+        output: palin4.ans
+      - input: palin5.in
+        output: palin5.ans
+      - input: palin6.in
+        output: palin6.ans
+      - input: palin7.in
+        output: palin7.ans
+      - input: palin8.in
+        output: palin8.ans
+      - input: palin9.in
+        output: palin9.ans
+      - input: palin10.in
+        output: palin10.ans
+      - input: palin11.in
+        output: palin11.ans
+      - input: palin12.in
+        output: palin12.ans
+      - input: palin13.in
+        output: palin13.ans
+      - input: palin14.in
+        output: palin14.ans
+      - input: palin15.in
+        output: palin15.ans
+      - input: palin16.in
+        output: palin16.ans
+      - input: palin17.in
+        output: palin17.ans
+      - input: palin18.in
+        output: palin18.ans
+      - input: palin19.in
+        output: palin19.ans
+      - input: palin20.in
+        output: palin20.ans
+      - input: palin21.in
+        output: palin21.ans
+      - input: palin22.in
+        output: palin22.ans
+      - input: palin23.in
+        output: palin23.ans
+      - input: palin24.in
+        output: palin24.ans
+      - input: palin25.in
+        output: palin25.ans

@@ -1,0 +1,20 @@
+警告: Hack 是不稳定 API，随时可能变更！
+checker: checker.cc
+checker_type: testlib
+validator: validator.cc
+time: 1s
+memory: 256m
+subtasks:
+  - id: 1
+    score: 97
+    cases:
+      - input: 1.in
+        output: 1.out
+  - id: 2
+    score: 3
+    cases:
+      - input: hack-63180ae54de9b47a3f5eccf3-1.in
+        output: /dev/null
+    注: |
+      在最后预留一个空的 subtask，给未来可能添加的 hack 测试点留位置
+      （使用 cases: [] 预留） hack 测试数据会注入到此处，分数可灵活指定

@@ -1,0 +1,30 @@
+type: default
+time: 1000ms
+memory: 512MB
+filename: apple
+subtasks:
+  - score: 100
+    if: []
+    id: 1
+    type: sum
+    cases:
+      - input: apple1.in
+        output: apple1.ans
+      - input: apple2.in
+        output: apple2.ans
+      - input: apple3.in
+        output: apple3.ans
+      - input: apple4.in
+        output: apple4.ans
+      - input: apple5.in
+        output: apple5.ans
+      - input: apple6.in
+        output: apple6.ans
+      - input: apple7.in
+        output: apple7.ans
+      - input: apple8.in
+        output: apple8.ans
+      - input: apple9.in
+        output: apple9.ans
+      - input: apple10.in
+        output: apple10.ans

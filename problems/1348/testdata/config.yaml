@@ -1,0 +1,50 @@
+type: default
+time: 1000ms
+memory: 512MB
+filename: road
+subtasks:
+  - score: 100
+    if: []
+    id: 1
+    type: sum
+    cases:
+      - input: road1.in
+        output: road1.ans
+      - input: road2.in
+        output: road2.ans
+      - input: road3.in
+        output: road3.ans
+      - input: road4.in
+        output: road4.ans
+      - input: road5.in
+        output: road5.ans
+      - input: road6.in
+        output: road6.ans
+      - input: road7.in
+        output: road7.ans
+      - input: road8.in
+        output: road8.ans
+      - input: road9.in
+        output: road9.ans
+      - input: road10.in
+        output: road10.ans
+      - input: road11.in
+        output: road11.ans
+      - input: road12.in
+        output: road12.ans
+      - input: road13.in
+        output: road13.ans
+      - input: road14.in
+        output: road14.ans
+      - input: road15.in
+        output: road15.ans
+      - input: road16.in
+        output: road16.ans
+      - input: road17.in
+        output: road17.ans
+      - input: road18.in
+        output: road18.ans
+      - input: road19.in
+        output: road19.ans
+      - input: road20.in
+        output: road20.ans

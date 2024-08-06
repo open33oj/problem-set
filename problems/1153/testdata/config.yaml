@@ -1,0 +1,52 @@
+type: default
+time: 1000ms
+memory: 512MB
+filename: point
+subtasks:
+  - score: 100
+    id: 1
+    type: sum
+    cases:
+      - input: point1.in
+        output: point1.ans
+      - input: point2.in
+        output: point2.ans
+      - input: point3.in
+        output: point3.ans
+      - input: point4.in
+        output: point4.ans
+      - input: point5.in
+        output: point5.ans
+      - input: point6.in
+        output: point6.ans
+      - input: point7.in
+        output: point7.ans
+      - input: point8.in
+        output: point8.ans
+      - input: point9.in
+        output: point9.ans
+      - input: point10.in
+        output: point10.ans
+      - input: point11.in
+        output: point11.ans
+      - input: point12.in
+        output: point12.ans
+      - input: point13.in
+        output: point13.ans
+      - input: point14.in
+        output: point14.ans
+      - input: point15.in
+        output: point15.ans
+      - input: point16.in
+        output: point16.ans
+      - input: point17.in
+        output: point17.ans
+      - input: point18.in
+        output: point18.ans
+      - input: point19.in
+        output: point19.ans
+      - input: point20.in
+        output: point20.ans
+langs:
+  - cc.std14o2
+  - cc

@@ -1,0 +1,50 @@
+type: default
+time: 1s
+memory: 512m
+filename: airport
+subtasks:
+  - score: 100
+    if: []
+    id: 1
+    type: sum
+    cases:
+      - input: airport1.in
+        output: airport1.ans
+      - input: airport2.in
+        output: airport2.ans
+      - input: airport3.in
+        output: airport3.ans
+      - input: airport4.in
+        output: airport4.ans
+      - input: airport5.in
+        output: airport5.ans
+      - input: airport6.in
+        output: airport6.ans
+      - input: airport7.in
+        output: airport7.ans
+      - input: airport8.in
+        output: airport8.ans
+      - input: airport9.in
+        output: airport9.ans
+      - input: airport10.in
+        output: airport10.ans
+      - input: airport11.in
+        output: airport11.ans
+      - input: airport12.in
+        output: airport12.ans
+      - input: airport13.in
+        output: airport13.ans
+      - input: airport14.in
+        output: airport14.ans
+      - input: airport15.in
+        output: airport15.ans
+      - input: airport16.in
+        output: airport16.ans
+      - input: airport17.in
+        output: airport17.ans
+      - input: airport18.in
+        output: airport18.ans
+      - input: airport19.in
+        output: airport19.ans
+      - input: airport20.in
+        output: airport20.ans

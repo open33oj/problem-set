@@ -1,0 +1,50 @@
+type: default
+time: 1000ms
+memory: 512MB
+filename: bus
+subtasks:
+  - score: 100
+    if: []
+    id: 1
+    type: sum
+    cases:
+      - input: bus1.in
+        output: bus1.ans
+      - input: bus2.in
+        output: bus2.ans
+      - input: bus3.in
+        output: bus3.ans
+      - input: bus4.in
+        output: bus4.ans
+      - input: bus5.in
+        output: bus5.ans
+      - input: bus6.in
+        output: bus6.ans
+      - input: bus7.in
+        output: bus7.ans
+      - input: bus8.in
+        output: bus8.ans
+      - input: bus9.in
+        output: bus9.ans
+      - input: bus10.in
+        output: bus10.ans
+      - input: bus11.in
+        output: bus11.ans
+      - input: bus12.in
+        output: bus12.ans
+      - input: bus13.in
+        output: bus13.ans
+      - input: bus14.in
+        output: bus14.ans
+      - input: bus15.in
+        output: bus15.ans
+      - input: bus16.in
+        output: bus16.ans
+      - input: bus17.in
+        output: bus17.ans
+      - input: bus18.in
+        output: bus18.ans
+      - input: bus19.in
+        output: bus19.ans
+      - input: bus20.in
+        output: bus20.ans

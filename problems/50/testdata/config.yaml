@@ -1,0 +1,50 @@
+type: default
+time: 1s
+memory: 512m
+filename: bracket
+subtasks:
+  - score: 100
+    if: []
+    id: 1
+    type: sum
+    cases:
+      - input: bracket1.in
+        output: bracket1.ans
+      - input: bracket2.in
+        output: bracket2.ans
+      - input: bracket3.in
+        output: bracket3.ans
+      - input: bracket4.in
+        output: bracket4.ans
+      - input: bracket5.in
+        output: bracket5.ans
+      - input: bracket6.in
+        output: bracket6.ans
+      - input: bracket7.in
+        output: bracket7.ans
+      - input: bracket8.in
+        output: bracket8.ans
+      - input: bracket9.in
+        output: bracket9.ans
+      - input: bracket10.in
+        output: bracket10.ans
+      - input: bracket11.in
+        output: bracket11.ans
+      - input: bracket12.in
+        output: bracket12.ans
+      - input: bracket13.in
+        output: bracket13.ans
+      - input: bracket14.in
+        output: bracket14.ans
+      - input: bracket15.in
+        output: bracket15.ans
+      - input: bracket16.in
+        output: bracket16.ans
+      - input: bracket17.in
+        output: bracket17.ans
+      - input: bracket18.in
+        output: bracket18.ans
+      - input: bracket19.in
+        output: bracket19.ans
+      - input: bracket20.in
+        output: bracket20.ans

@@ -1,0 +1,21 @@
+type: default
+time: 1s
+checker_type: testlib
+checker: checker.cc
+user_extra_files:
+  - compile.sh
+  - execute.sh
+subtasks:
+  - score: 100
+    type: sum
+    cases:
+      - input: 1.in
+        output: /dev/null
+      - input: 2.in
+        output: /dev/null
+      - input: 3.in
+        output: /dev/null
+      - input: 4.in
+        output: /dev/null
+      - input: 5.in
+        output: /dev/null

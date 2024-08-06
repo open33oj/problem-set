@@ -1,0 +1,50 @@
+type: default
+time: 3s
+memory: 512m
+filename: traffic
+subtasks:
+  - score: 100
+    if: []
+    id: 1
+    type: sum
+    cases:
+      - input: traffic1.in
+        output: traffic1.ans
+      - input: traffic2.in
+        output: traffic2.ans
+      - input: traffic3.in
+        output: traffic3.ans
+      - input: traffic4.in
+        output: traffic4.ans
+      - input: traffic5.in
+        output: traffic5.ans
+      - input: traffic6.in
+        output: traffic6.ans
+      - input: traffic7.in
+        output: traffic7.ans
+      - input: traffic8.in
+        output: traffic8.ans
+      - input: traffic9.in
+        output: traffic9.ans
+      - input: traffic10.in
+        output: traffic10.ans
+      - input: traffic11.in
+        output: traffic11.ans
+      - input: traffic12.in
+        output: traffic12.ans
+      - input: traffic13.in
+        output: traffic13.ans
+      - input: traffic14.in
+        output: traffic14.ans
+      - input: traffic15.in
+        output: traffic15.ans
+      - input: traffic16.in
+        output: traffic16.ans
+      - input: traffic17.in
+        output: traffic17.ans
+      - input: traffic18.in
+        output: traffic18.ans
+      - input: traffic19.in
+        output: traffic19.ans
+      - input: traffic20.in
+        output: traffic20.ans

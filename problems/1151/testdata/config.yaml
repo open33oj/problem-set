@@ -1,0 +1,32 @@
+type: default
+time: 1000ms
+memory: 512MB
+filename: decode
+subtasks:
+  - score: 100
+    id: 1
+    type: sum
+    cases:
+      - input: decode1.in
+        output: decode1.ans
+      - input: decode2.in
+        output: decode2.ans
+      - input: decode3.in
+        output: decode3.ans
+      - input: decode4.in
+        output: decode4.ans
+      - input: decode5.in
+        output: decode5.ans
+      - input: decode6.in
+        output: decode6.ans
+      - input: decode7.in
+        output: decode7.ans
+      - input: decode8.in
+        output: decode8.ans
+      - input: decode9.in
+        output: decode9.ans
+      - input: decode10.in
+        output: decode10.ans
+langs:
+  - cc.std14o2
+  - cc

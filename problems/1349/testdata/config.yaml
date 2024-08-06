@@ -1,0 +1,30 @@
+type: default
+time: 1000ms
+memory: 512MB
+filename: uqe
+subtasks:
+  - score: 100
+    if: []
+    id: 1
+    type: sum
+    cases:
+      - input: uqe1.in
+        output: uqe1.ans
+      - input: uqe2.in
+        output: uqe2.ans
+      - input: uqe3.in
+        output: uqe3.ans
+      - input: uqe4.in
+        output: uqe4.ans
+      - input: uqe5.in
+        output: uqe5.ans
+      - input: uqe6.in
+        output: uqe6.ans
+      - input: uqe7.in
+        output: uqe7.ans
+      - input: uqe8.in
+        output: uqe8.ans
+      - input: uqe9.in
+        output: uqe9.ans
+      - input: uqe10.in
+        output: uqe10.ans

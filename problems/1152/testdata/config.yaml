@@ -1,0 +1,52 @@
+type: default
+time: 1000ms
+memory: 512MB
+filename: expr
+subtasks:
+  - score: 100
+    id: 1
+    type: sum
+    cases:
+      - input: expr1.in
+        output: expr1.ans
+      - input: expr2.in
+        output: expr2.ans
+      - input: expr3.in
+        output: expr3.ans
+      - input: expr4.in
+        output: expr4.ans
+      - input: expr5.in
+        output: expr5.ans
+      - input: expr6.in
+        output: expr6.ans
+      - input: expr7.in
+        output: expr7.ans
+      - input: expr8.in
+        output: expr8.ans
+      - input: expr9.in
+        output: expr9.ans
+      - input: expr10.in
+        output: expr10.ans
+      - input: expr11.in
+        output: expr11.ans
+      - input: expr12.in
+        output: expr12.ans
+      - input: expr13.in
+        output: expr13.ans
+      - input: expr14.in
+        output: expr14.ans
+      - input: expr15.in
+        output: expr15.ans
+      - input: expr16.in
+        output: expr16.ans
+      - input: expr17.in
+        output: expr17.ans
+      - input: expr18.in
+        output: expr18.ans
+      - input: expr19.in
+        output: expr19.ans
+      - input: expr20.in
+        output: expr20.ans
+langs:
+  - cc.std14o2
+  - cc

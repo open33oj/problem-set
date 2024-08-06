@@ -1,0 +1,32 @@
+type: default
+time: 1000ms
+memory: 512MB
+filename: pow
+subtasks:
+  - score: 100
+    id: 1
+    type: sum
+    cases:
+      - input: pow1.in
+        output: pow1.ans
+      - input: pow2.in
+        output: pow2.ans
+      - input: pow3.in
+        output: pow3.ans
+      - input: pow4.in
+        output: pow4.ans
+      - input: pow5.in
+        output: pow5.ans
+      - input: pow6.in
+        output: pow6.ans
+      - input: pow7.in
+        output: pow7.ans
+      - input: pow8.in
+        output: pow8.ans
+      - input: pow9.in
+        output: pow9.ans
+      - input: pow10.in
+        output: pow10.ans
+langs:
+  - cc.std14o2
+  - cc
