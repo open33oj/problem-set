@@ -1,0 +1,30 @@
+type: default
+time: 1000ms
+memory: 512MB
+filename: lock
+subtasks:
+  - score: 100
+    if: []
+    id: 1
+    type: sum
+    cases:
+      - input: lock1.in
+        output: lock1.ans
+      - input: lock2.in
+        output: lock2.ans
+      - input: lock3.in
+        output: lock3.ans
+      - input: lock4.in
+        output: lock4.ans
+      - input: lock5.in
+        output: lock5.ans
+      - input: lock6.in
+        output: lock6.ans
+      - input: lock7.in
+        output: lock7.ans
+      - input: lock8.in
+        output: lock8.ans
+      - input: lock9.in
+        output: lock9.ans
+      - input: lock10.in
+        output: lock10.ans

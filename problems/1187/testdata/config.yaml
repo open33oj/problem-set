@@ -1,0 +1,52 @@
+type: default
+time: 1000ms
+memory: 512MB
+filename: barrack
+subtasks:
+  - score: 100
+    id: 1
+    type: sum
+    cases:
+      - input: barrack1.in
+        output: barrack1.ans
+      - input: barrack2.in
+        output: barrack2.ans
+      - input: barrack3.in
+        output: barrack3.ans
+      - input: barrack4.in
+        output: barrack4.ans
+      - input: barrack5.in
+        output: barrack5.ans
+      - input: barrack6.in
+        output: barrack6.ans
+      - input: barrack7.in
+        output: barrack7.ans
+      - input: barrack8.in
+        output: barrack8.ans
+      - input: barrack9.in
+        output: barrack9.ans
+      - input: barrack10.in
+        output: barrack10.ans
+      - input: barrack11.in
+        output: barrack11.ans
+      - input: barrack12.in
+        output: barrack12.ans
+      - input: barrack13.in
+        output: barrack13.ans
+      - input: barrack14.in
+        output: barrack14.ans
+      - input: barrack15.in
+        output: barrack15.ans
+      - input: barrack16.in
+        output: barrack16.ans
+      - input: barrack17.in
+        output: barrack17.ans
+      - input: barrack18.in
+        output: barrack18.ans
+      - input: barrack19.in
+        output: barrack19.ans
+      - input: barrack20.in
+        output: barrack20.ans
+langs:
+  - cc.std14o2
+  - cc

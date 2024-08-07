@@ -1,0 +1,30 @@
+type: default
+time: 1000ms
+memory: 512MB
+filename: dict
+subtasks:
+  - score: 100
+    if: []
+    id: 1
+    type: sum
+    cases:
+      - input: dict1.in
+        output: dict1.ans
+      - input: dict2.in
+        output: dict2.ans
+      - input: dict3.in
+        output: dict3.ans
+      - input: dict4.in
+        output: dict4.ans
+      - input: dict5.in
+        output: dict5.ans
+      - input: dict6.in
+        output: dict6.ans
+      - input: dict7.in
+        output: dict7.ans
+      - input: dict8.in
+        output: dict8.ans
+      - input: dict9.in
+        output: dict9.ans
+      - input: dict10.in
+        output: dict10.ans

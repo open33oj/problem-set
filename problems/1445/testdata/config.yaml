@@ -1,0 +1,29 @@
+type: default
+subtasks:
+  - time: 2000ms
+    memory: 256MB
+    score: 100
+    if: []
+    id: 1
+    type: sum
+    cases:
+      - input: jump1.in
+        output: jump1.ans
+      - input: jump2.in
+        output: jump2.ans
+      - input: jump3.in
+        output: jump3.ans
+      - input: jump4.in
+        output: jump4.ans
+      - input: jump5.in
+        output: jump5.ans
+      - input: jump6.in
+        output: jump6.ans
+      - input: jump7.in
+        output: jump7.ans
+      - input: jump8.in
+        output: jump8.ans
+      - input: jump9.in
+        output: jump9.ans
+      - input: jump10.in
+        output: jump10.ans

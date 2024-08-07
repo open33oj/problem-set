@@ -1,0 +1,29 @@
+type: default
+time: 1000ms
+memory: 256MB
+subtasks:
+  - score: 100
+    if: []
+    id: 1
+    type: sum
+    cases:
+      - input: librarian1.in
+        output: librarian1.out
+      - input: librarian2.in
+        output: librarian2.out
+      - input: librarian3.in
+        output: librarian3.out
+      - input: librarian4.in
+        output: librarian4.out
+      - input: librarian5.in
+        output: librarian5.out
+      - input: librarian6.in
+        output: librarian6.out
+      - input: librarian7.in
+        output: librarian7.out
+      - input: librarian8.in
+        output: librarian8.out
+      - input: librarian9.in
+        output: librarian9.out
+      - input: librarian10.in
+        output: librarian10.out

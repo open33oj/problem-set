@@ -1,0 +1,50 @@
+type: default
+time: 1000ms
+memory: 512MB
+filename: expand
+subtasks:
+  - score: 100
+    if: []
+    id: 1
+    type: sum
+    cases:
+      - input: expand1.in
+        output: expand1.ans
+      - input: expand2.in
+        output: expand2.ans
+      - input: expand3.in
+        output: expand3.ans
+      - input: expand4.in
+        output: expand4.ans
+      - input: expand5.in
+        output: expand5.ans
+      - input: expand6.in
+        output: expand6.ans
+      - input: expand7.in
+        output: expand7.ans
+      - input: expand8.in
+        output: expand8.ans
+      - input: expand9.in
+        output: expand9.ans
+      - input: expand10.in
+        output: expand10.ans
+      - input: expand11.in
+        output: expand11.ans
+      - input: expand12.in
+        output: expand12.ans
+      - input: expand13.in
+        output: expand13.ans
+      - input: expand14.in
+        output: expand14.ans
+      - input: expand15.in
+        output: expand15.ans
+      - input: expand16.in
+        output: expand16.ans
+      - input: expand17.in
+        output: expand17.ans
+      - input: expand18.in
+        output: expand18.ans
+      - input: expand19.in
+        output: expand19.ans
+      - input: expand20.in
+        output: expand20.ans

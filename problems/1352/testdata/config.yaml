@@ -1,0 +1,50 @@
+type: default
+time: 1000ms
+memory: 512MB
+filename: game
+subtasks:
+  - score: 100
+    if: []
+    id: 1
+    type: sum
+    cases:
+      - input: game1.in
+        output: game1.ans
+      - input: game2.in
+        output: game2.ans
+      - input: game3.in
+        output: game3.ans
+      - input: game4.in
+        output: game4.ans
+      - input: game5.in
+        output: game5.ans
+      - input: game6.in
+        output: game6.ans
+      - input: game7.in
+        output: game7.ans
+      - input: game8.in
+        output: game8.ans
+      - input: game9.in
+        output: game9.ans
+      - input: game10.in
+        output: game10.ans
+      - input: game11.in
+        output: game11.ans
+      - input: game12.in
+        output: game12.ans
+      - input: game13.in
+        output: game13.ans
+      - input: game14.in
+        output: game14.ans
+      - input: game15.in
+        output: game15.ans
+      - input: game16.in
+        output: game16.ans
+      - input: game17.in
+        output: game17.ans
+      - input: game18.in
+        output: game18.ans
+      - input: game19.in
+        output: game19.ans
+      - input: game20.in
+        output: game20.ans

@@ -1,0 +1,52 @@
+type: default
+time: 2000ms
+memory: 512MB
+filename: galaxy
+subtasks:
+  - score: 100
+    id: 1
+    type: sum
+    cases:
+      - input: galaxy1.in
+        output: galaxy1.ans
+      - input: galaxy2.in
+        output: galaxy2.ans
+      - input: galaxy3.in
+        output: galaxy3.ans
+      - input: galaxy4.in
+        output: galaxy4.ans
+      - input: galaxy5.in
+        output: galaxy5.ans
+      - input: galaxy6.in
+        output: galaxy6.ans
+      - input: galaxy7.in
+        output: galaxy7.ans
+      - input: galaxy8.in
+        output: galaxy8.ans
+      - input: galaxy9.in
+        output: galaxy9.ans
+      - input: galaxy10.in
+        output: galaxy10.ans
+      - input: galaxy11.in
+        output: galaxy11.ans
+      - input: galaxy12.in
+        output: galaxy12.ans
+      - input: galaxy13.in
+        output: galaxy13.ans
+      - input: galaxy14.in
+        output: galaxy14.ans
+      - input: galaxy15.in
+        output: galaxy15.ans
+      - input: galaxy16.in
+        output: galaxy16.ans
+      - input: galaxy17.in
+        output: galaxy17.ans
+      - input: galaxy18.in
+        output: galaxy18.ans
+      - input: galaxy19.in
+        output: galaxy19.ans
+      - input: galaxy20.in
+        output: galaxy20.ans
+langs:
+  - cc.std14o2
+  - cc

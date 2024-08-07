@@ -1,0 +1,49 @@
+type: default
+time: 1000ms
+memory: 256MB
+subtasks:
+  - score: 100
+    if: []
+    id: 1
+    type: sum
+    cases:
+      - input: chess1.in
+        output: chess1.ans
+      - input: chess2.in
+        output: chess2.ans
+      - input: chess3.in
+        output: chess3.ans
+      - input: chess4.in
+        output: chess4.ans
+      - input: chess5.in
+        output: chess5.ans
+      - input: chess6.in
+        output: chess6.ans
+      - input: chess7.in
+        output: chess7.ans
+      - input: chess8.in
+        output: chess8.ans
+      - input: chess9.in
+        output: chess9.ans
+      - input: chess10.in
+        output: chess10.ans
+      - input: chess11.in
+        output: chess11.ans
+      - input: chess12.in
+        output: chess12.ans
+      - input: chess13.in
+        output: chess13.ans
+      - input: chess14.in
+        output: chess14.ans
+      - input: chess15.in
+        output: chess15.ans
+      - input: chess16.in
+        output: chess16.ans
+      - input: chess17.in
+        output: chess17.ans
+      - input: chess18.in
+        output: chess18.ans
+      - input: chess19.in
+        output: chess19.ans
+      - input: chess20.in
+        output: chess20.ans

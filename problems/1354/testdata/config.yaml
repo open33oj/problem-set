@@ -1,0 +1,50 @@
+type: default
+time: 1000ms
+memory: 512MB
+filename: tree
+subtasks:
+  - score: 100
+    if: []
+    id: 1
+    type: sum
+    cases:
+      - input: tree1.in
+        output: tree1.ans
+      - input: tree2.in
+        output: tree2.ans
+      - input: tree3.in
+        output: tree3.ans
+      - input: tree4.in
+        output: tree4.ans
+      - input: tree5.in
+        output: tree5.ans
+      - input: tree6.in
+        output: tree6.ans
+      - input: tree7.in
+        output: tree7.ans
+      - input: tree8.in
+        output: tree8.ans
+      - input: tree9.in
+        output: tree9.ans
+      - input: tree10.in
+        output: tree10.ans
+      - input: tree11.in
+        output: tree11.ans
+      - input: tree12.in
+        output: tree12.ans
+      - input: tree13.in
+        output: tree13.ans
+      - input: tree14.in
+        output: tree14.ans
+      - input: tree15.in
+        output: tree15.ans
+      - input: tree16.in
+        output: tree16.ans
+      - input: tree17.in
+        output: tree17.ans
+      - input: tree18.in
+        output: tree18.ans
+      - input: tree19.in
+        output: tree19.ans
+      - input: tree20.in
+        output: tree20.ans

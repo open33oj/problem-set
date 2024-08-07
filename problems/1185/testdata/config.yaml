@@ -1,0 +1,104 @@
+type: default
+time: 1000ms
+memory: 512MB
+filename: plant
+subtasks:
+  - score: 1
+    id: 1
+    type: sum
+    cases:
+      - input: plant1.in
+        output: plant1.ans
+  - score: 2
+    id: 2
+    type: sum
+    cases:
+      - input: plant2.in
+        output: plant2.ans
+  - score: 3
+    id: 3
+    type: sum
+    cases:
+      - input: plant3.in
+        output: plant3.ans
+  - score: 4
+    id: 4
+    type: sum
+    cases:
+      - input: plant4.in
+        output: plant4.ans
+  - score: 4
+    id: 5
+    type: sum
+    cases:
+      - input: plant5.in
+        output: plant5.ans
+  - score: 6
+    id: 6
+    type: sum
+    cases:
+      - input: plant6.in
+        output: plant6.ans
+  - score: 10
+    id: 7
+    type: sum
+    cases:
+      - input: plant7.in
+        output: plant7.ans
+  - score: 6
+    id: 8
+    type: sum
+    cases:
+      - input: plant8.in
+        output: plant8.ans
+  - score: 6
+    id: 9
+    type: sum
+    cases:
+      - input: plant9.in
+        output: plant9.ans
+  - score: 8
+    id: 10
+    type: sum
+    cases:
+      - input: plant10.in
+        output: plant10.ans
+  - score: 10
+    id: 11
+    type: sum
+    cases:
+      - input: plant11.in
+        output: plant11.ans
+  - score: 6
+    id: 12
+    type: sum
+    cases:
+      - input: plant12.in
+        output: plant12.ans
+  - score: 6
+    id: 13
+    type: sum
+    cases:
+      - input: plant13.in
+        output: plant13.ans
+  - score: 8
+    id: 14
+    type: sum
+    cases:
+      - input: plant14.in
+        output: plant14.ans
+  - score: 6
+    id: 15
+    type: sum
+    cases:
+      - input: plant15.in
+        output: plant15.ans
+  - score: 14
+    id: 16
+    type: sum
+    cases:
+      - input: plant16.in
+        output: plant16.ans
+langs:
+  - cc.std14o2
+  - cc

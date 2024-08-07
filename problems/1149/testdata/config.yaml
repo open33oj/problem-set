@@ -1,0 +1,62 @@
+type: default
+time: 3000ms
+memory: 1024MB
+filename: transmit
+subtasks:
+  - score: 100
+    id: 1
+    type: sum
+    cases:
+      - input: transmit1.in
+        output: transmit1.ans
+      - input: transmit2.in
+        output: transmit2.ans
+      - input: transmit3.in
+        output: transmit3.ans
+      - input: transmit4.in
+        output: transmit4.ans
+      - input: transmit5.in
+        output: transmit5.ans
+      - input: transmit6.in
+        output: transmit6.ans
+      - input: transmit7.in
+        output: transmit7.ans
+      - input: transmit8.in
+        output: transmit8.ans
+      - input: transmit9.in
+        output: transmit9.ans
+      - input: transmit10.in
+        output: transmit10.ans
+      - input: transmit11.in
+        output: transmit11.ans
+      - input: transmit12.in
+        output: transmit12.ans
+      - input: transmit13.in
+        output: transmit13.ans
+      - input: transmit14.in
+        output: transmit14.ans
+      - input: transmit15.in
+        output: transmit15.ans
+      - input: transmit16.in
+        output: transmit16.ans
+      - input: transmit17.in
+        output: transmit17.ans
+      - input: transmit18.in
+        output: transmit18.ans
+      - input: transmit19.in
+        output: transmit19.ans
+      - input: transmit20.in
+        output: transmit20.ans
+      - input: transmit21.in
+        output: transmit21.ans
+      - input: transmit22.in
+        output: transmit22.ans
+      - input: transmit23.in
+        output: transmit23.ans
+      - input: transmit24.in
+        output: transmit24.ans
+      - input: transmit25.in
+        output: transmit25.ans
+langs:
+  - cc.std14o2
+  - cc

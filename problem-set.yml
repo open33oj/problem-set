@@ -316,3 +316,379 @@ D0050:
   - '2021'
   - D
   title: 交通规划
+D0051:
+  docId: 1146
+  tag:
+  - CSP-S
+  - '2022'
+  - A
+  title: 假期计划
+D0052:
+  docId: 1147
+  tag:
+  - CSP-S
+  - '2022'
+  - B
+  title: 策略游戏
+D0053:
+  docId: 1148
+  tag:
+  - CSP-S
+  - '2022'
+  - C
+  title: 星战
+D0054:
+  docId: 1149
+  tag:
+  - CSP-S
+  - '2022'
+  - D
+  title: 数据传输
+D0055:
+  docId: 1351
+  tag:
+  - CSP-S
+  - '2023'
+  - A
+  title: 密码锁
+D0056:
+  docId: 1352
+  tag:
+  - CSP-S
+  - '2023'
+  - B
+  title: 消消乐
+D0057:
+  docId: 1353
+  tag:
+  - CSP-S
+  - '2023'
+  - C
+  title: 结构体
+D0058:
+  docId: 1354
+  tag:
+  - CSP-S
+  - '2023'
+  - D
+  title: 种树
+D0059:
+  docId: 118
+  tag:
+  - NOIP
+  - '2020'
+  - A
+  title: 排水系统
+D0060:
+  docId: 120
+  tag:
+  - NOIP
+  - '2020'
+  - B
+  title: 字符串匹配
+D0061:
+  docId: 117
+  tag:
+  - NOIP
+  - '2020'
+  - C
+  title: 移球游戏
+D0062:
+  docId: 119
+  tag:
+  - NOIP
+  - '2020'
+  - D
+  title: 微信步数
+D0063:
+  docId: 16
+  tag:
+  - NOIP
+  - '2021'
+  - A
+  title: 报数
+D0064:
+  docId: 17
+  tag:
+  - NOIP
+  - '2021'
+  - B
+  title: 数列
+D0065:
+  docId: 18
+  tag:
+  - NOIP
+  - '2021'
+  - C
+  title: 方差
+D0066:
+  docId: 19
+  tag:
+  - NOIP
+  - '2021'
+  - D
+  title: 棋局
+D0067:
+  docId: 1185
+  tag:
+  - NOIP
+  - '2022'
+  - A
+  title: 种花
+D0068:
+  docId: 1186
+  tag:
+  - NOIP
+  - '2022'
+  - B
+  title: 喵了个喵
+D0069:
+  docId: 1187
+  tag:
+  - NOIP
+  - '2022'
+  - C
+  title: 建造军营
+D0070:
+  docId: 1188
+  tag:
+  - NOIP
+  - '2022'
+  - D
+  title: 比赛
+D0071:
+  docId: 1363
+  tag:
+  - NOIP
+  - '2023'
+  - A
+  title: 词典
+D0072:
+  docId: 1364
+  tag:
+  - NOIP
+  - '2023'
+  - B
+  title: 三值逻辑
+D0073:
+  docId: 1365
+  tag:
+  - NOIP
+  - '2023'
+  - C
+  title: 双序列扩展
+D0074:
+  docId: 1366
+  tag:
+  - NOIP
+  - '2023'
+  - D
+  title: 天天爱打卡
+D0075:
+  docId: 115
+  tag:
+  - NOIP
+  - 普及组
+  - '2018'
+  - A
+  title: 标题统计
+D0076:
+  docId: 116
+  tag:
+  - NOIP
+  - 普及组
+  - '2018'
+  - B
+  title: 龙虎斗
+D0077:
+  docId: 113
+  tag:
+  - NOIP
+  - 普及组
+  - '2018'
+  - C
+  title: 摆渡车
+D0078:
+  docId: 114
+  tag:
+  - NOIP
+  - 普及组
+  - '2018'
+  - D
+  title: 对称二叉树
+D0079:
+  docId: 168
+  tag:
+  - NOIP
+  - 提高组
+  - '2018'
+  - A
+  title: 铺设道路
+D0080:
+  docId: 158
+  tag:
+  - NOIP
+  - 提高组
+  - '2018'
+  - B
+  title: 货币系统
+D0081:
+  docId: 162
+  tag:
+  - NOIP
+  - 提高组
+  - '2018'
+  - C
+  title: 赛道修建
+D0082:
+  docId: 166
+  tag:
+  - NOIP
+  - 提高组
+  - '2018'
+  - D
+  title: 旅行
+D0083:
+  docId: 160
+  tag:
+  - NOIP
+  - 提高组
+  - '2018'
+  - E
+  title: 填数游戏
+D0084:
+  docId: 163
+  tag:
+  - NOIP
+  - 提高组
+  - '2018'
+  - F
+  title: 保卫王国
+D0085:
+  docId: 207
+  tag:
+  - NOIP
+  - 普及组
+  - '2017'
+  - A
+  title: 成绩
+D0086:
+  docId: 208
+  tag:
+  - NOIP
+  - 普及组
+  - '2017'
+  - B
+  title: 图书管理员
+D0087:
+  docId: 1444
+  tag:
+  - NOIP
+  - 普及组
+  - '2017'
+  - C
+  title: 棋盘
+D0088:
+  docId: 1445
+  tag:
+  - NOIP
+  - 普及组
+  - '2017'
+  - D
+  title: 跳房子
+D0089:
+  docId: 157
+  tag:
+  - NOIP
+  - 提高组
+  - '2017'
+  - A
+  title: 小凯的疑惑
+D0090:
+  docId: 165
+  tag:
+  - NOIP
+  - 提高组
+  - '2017'
+  - B
+  title: 时间复杂度
+D0091:
+  docId: 167
+  tag:
+  - NOIP
+  - 提高组
+  - '2017'
+  - C
+  title: 逛公园
+D0092:
+  docId: 159
+  tag:
+  - NOIP
+  - 提高组
+  - '2017'
+  - D
+  title: 奶酪
+D0093:
+  docId: 161
+  tag:
+  - NOIP
+  - 提高组
+  - '2017'
+  - E
+  title: 宝藏
+D0094:
+  docId: 164
+  tag:
+  - NOIP
+  - 提高组
+  - '2017'
+  - F
+  title: 列队
+D0095:
+  docId: 100
+  tag:
+  - NOIP
+  - 普及组
+  - '2016'
+  - A
+  title: 买铅笔
+D0096:
+  docId: 101
+  tag:
+  - NOIP
+  - 普及组
+  - '2016'
+  - B
+  title: 回文日期
+D0097:
+  docId: 102
+  tag:
+  - NOIP
+  - 普及组
+  - '2016'
+  - C
+  title: 海港
+D0098:
+  docId: 103
+  tag:
+  - NOIP
+  - 普及组
+  - '2016'
+  - D
+  title: 魔法阵
+D0099:
+  docId: 151
+  tag:
+  - NOIP
+  - 提高组
+  - '2016'
+  - A
+  title: 玩具谜题
+D0100:
+  docId: 154
+  tag:
+  - NOIP
+  - 提高组
+  - '2016'
+  - B
+  title: 天天爱跑步

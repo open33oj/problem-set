@@ -1,0 +1,62 @@
+type: default
+time: 2000ms
+memory: 512MB
+filename: match
+subtasks:
+  - score: 100
+    id: 1
+    type: sum
+    cases:
+      - input: match1.in
+        output: match1.ans
+      - input: match2.in
+        output: match2.ans
+      - input: match3.in
+        output: match3.ans
+      - input: match4.in
+        output: match4.ans
+      - input: match5.in
+        output: match5.ans
+      - input: match6.in
+        output: match6.ans
+      - input: match7.in
+        output: match7.ans
+      - input: match8.in
+        output: match8.ans
+      - input: match9.in
+        output: match9.ans
+      - input: match10.in
+        output: match10.ans
+      - input: match11.in
+        output: match11.ans
+      - input: match12.in
+        output: match12.ans
+      - input: match13.in
+        output: match13.ans
+      - input: match14.in
+        output: match14.ans
+      - input: match15.in
+        output: match15.ans
+      - input: match16.in
+        output: match16.ans
+      - input: match17.in
+        output: match17.ans
+      - input: match18.in
+        output: match18.ans
+      - input: match19.in
+        output: match19.ans
+      - input: match20.in
+        output: match20.ans
+      - input: match21.in
+        output: match21.ans
+      - input: match22.in
+        output: match22.ans
+      - input: match23.in
+        output: match23.ans
+      - input: match24.in
+        output: match24.ans
+      - input: match25.in
+        output: match25.ans
+langs:
+  - cc.std14o2
+  - cc

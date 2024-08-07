@@ -1,0 +1,60 @@
+type: default
+time: 2000ms
+memory: 512MB
+filename: run
+subtasks:
+  - score: 100
+    if: []
+    id: 1
+    type: sum
+    cases:
+      - input: run1.in
+        output: run1.ans
+      - input: run2.in
+        output: run2.ans
+      - input: run3.in
+        output: run3.ans
+      - input: run4.in
+        output: run4.ans
+      - input: run5.in
+        output: run5.ans
+      - input: run6.in
+        output: run6.ans
+      - input: run7.in
+        output: run7.ans
+      - input: run8.in
+        output: run8.ans
+      - input: run9.in
+        output: run9.ans
+      - input: run10.in
+        output: run10.ans
+      - input: run11.in
+        output: run11.ans
+      - input: run12.in
+        output: run12.ans
+      - input: run13.in
+        output: run13.ans
+      - input: run14.in
+        output: run14.ans
+      - input: run15.in
+        output: run15.ans
+      - input: run16.in
+        output: run16.ans
+      - input: run17.in
+        output: run17.ans
+      - input: run18.in
+        output: run18.ans
+      - input: run19.in
+        output: run19.ans
+      - input: run20.in
+        output: run20.ans
+      - input: run21.in
+        output: run21.ans
+      - input: run22.in
+        output: run22.ans
+      - input: run23.in
+        output: run23.ans
+      - input: run24.in
+        output: run24.ans
+      - input: run25.in
+        output: run25.ans

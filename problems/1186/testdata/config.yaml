@@ -1,0 +1,54 @@
+type: default
+time: 1000ms
+memory: 512MB
+filename: meow
+checker_type: testlib
+checker: checker.cc
+subtasks:
+  - score: 100
+    id: 1
+    type: sum
+    cases:
+      - input: meow1.in
+        output: meow1.ans
+      - input: meow2.in
+        output: meow2.ans
+      - input: meow3.in
+        output: meow3.ans
+      - input: meow4.in
+        output: meow4.ans
+      - input: meow5.in
+        output: meow5.ans
+      - input: meow6.in
+        output: meow6.ans
+      - input: meow7.in
+        output: meow7.ans
+      - input: meow8.in
+        output: meow8.ans
+      - input: meow9.in
+        output: meow9.ans
+      - input: meow10.in
+        output: meow10.ans
+      - input: meow11.in
+        output: meow11.ans
+      - input: meow12.in
+        output: meow12.ans
+      - input: meow13.in
+        output: meow13.ans
+      - input: meow14.in
+        output: meow14.ans
+      - input: meow15.in
+        output: meow15.ans
+      - input: meow16.in
+        output: meow16.ans
+      - input: meow17.in
+        output: meow17.ans
+      - input: meow18.in
+        output: meow18.ans
+      - input: meow19.in
+        output: meow19.ans
+      - input: meow20.in
+        output: meow20.ans
+langs:
+  - cc.std14o2
+  - cc

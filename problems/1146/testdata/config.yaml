@@ -1,0 +1,52 @@
+type: default
+time: 2000ms
+memory: 512MB
+filename: holiday
+subtasks:
+  - score: 100
+    id: 1
+    type: sum
+    cases:
+      - input: holiday1.in
+        output: holiday1.ans
+      - input: holiday2.in
+        output: holiday2.ans
+      - input: holiday3.in
+        output: holiday3.ans
+      - input: holiday4.in
+        output: holiday4.ans
+      - input: holiday5.in
+        output: holiday5.ans
+      - input: holiday6.in
+        output: holiday6.ans
+      - input: holiday7.in
+        output: holiday7.ans
+      - input: holiday8.in
+        output: holiday8.ans
+      - input: holiday9.in
+        output: holiday9.ans
+      - input: holiday10.in
+        output: holiday10.ans
+      - input: holiday11.in
+        output: holiday11.ans
+      - input: holiday12.in
+        output: holiday12.ans
+      - input: holiday13.in
+        output: holiday13.ans
+      - input: holiday14.in
+        output: holiday14.ans
+      - input: holiday15.in
+        output: holiday15.ans
+      - input: holiday16.in
+        output: holiday16.ans
+      - input: holiday17.in
+        output: holiday17.ans
+      - input: holiday18.in
+        output: holiday18.ans
+      - input: holiday19.in
+        output: holiday19.ans
+      - input: holiday20.in
+        output: holiday20.ans
+langs:
+  - cc.std14o2
+  - cc

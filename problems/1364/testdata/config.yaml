@@ -1,0 +1,30 @@
+type: default
+time: 1000ms
+memory: 512MB
+filename: tribool
+subtasks:
+  - score: 100
+    if: []
+    id: 1
+    type: sum
+    cases:
+      - input: tribool1.in
+        output: tribool1.ans
+      - input: tribool2.in
+        output: tribool2.ans
+      - input: tribool3.in
+        output: tribool3.ans
+      - input: tribool4.in
+        output: tribool4.ans
+      - input: tribool5.in
+        output: tribool5.ans
+      - input: tribool6.in
+        output: tribool6.ans
+      - input: tribool7.in
+        output: tribool7.ans
+      - input: tribool8.in
+        output: tribool8.ans
+      - input: tribool9.in
+        output: tribool9.ans
+      - input: tribool10.in
+        output: tribool10.ans

@@ -1,0 +1,50 @@
+type: default
+time: 1000ms
+memory: 512MB
+filename: struct
+subtasks:
+  - score: 100
+    if: []
+    id: 1
+    type: sum
+    cases:
+      - input: struct1.in
+        output: struct1.ans
+      - input: struct2.in
+        output: struct2.ans
+      - input: struct3.in
+        output: struct3.ans
+      - input: struct4.in
+        output: struct4.ans
+      - input: struct5.in
+        output: struct5.ans
+      - input: struct6.in
+        output: struct6.ans
+      - input: struct7.in
+        output: struct7.ans
+      - input: struct8.in
+        output: struct8.ans
+      - input: struct9.in
+        output: struct9.ans
+      - input: struct10.in
+        output: struct10.ans
+      - input: struct11.in
+        output: struct11.ans
+      - input: struct12.in
+        output: struct12.ans
+      - input: struct13.in
+        output: struct13.ans
+      - input: struct14.in
+        output: struct14.ans
+      - input: struct15.in
+        output: struct15.ans
+      - input: struct16.in
+        output: struct16.ans
+      - input: struct17.in
+        output: struct17.ans
+      - input: struct18.in
+        output: struct18.ans
+      - input: struct19.in
+        output: struct19.ans
+      - input: struct20.in
+        output: struct20.ans
