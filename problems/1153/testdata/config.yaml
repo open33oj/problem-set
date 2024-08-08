@@ -1,7 +1,6 @@
 type: default
 time: 1000ms
 memory: 512MB
-filename: point
 subtasks:
   - score: 100
     id: 1
@@ -47,6 +46,3 @@ subtasks:
         output: point19.ans
       - input: point20.in
         output: point20.ans
-langs:
-  - cc.std14o2
-  - cc

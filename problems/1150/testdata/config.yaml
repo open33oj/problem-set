@@ -1,7 +1,6 @@
 type: default
 time: 1000ms
 memory: 512MB
-filename: pow
 subtasks:
   - score: 100
     id: 1
@@ -27,6 +26,3 @@ subtasks:
         output: pow9.ans
       - input: pow10.in
         output: pow10.ans
-langs:
-  - cc.std14o2
-  - cc

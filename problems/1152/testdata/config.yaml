@@ -1,7 +1,6 @@
 type: default
 time: 1000ms
 memory: 512MB
-filename: expr
 subtasks:
   - score: 100
     id: 1
@@ -47,6 +46,3 @@ subtasks:
         output: expr19.ans
       - input: expr20.in
         output: expr20.ans
-langs:
-  - cc.std14o2
-  - cc

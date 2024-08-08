@@ -1,7 +1,6 @@
 type: default
 time: 1000ms
 memory: 512MB
-filename: decode
 subtasks:
   - score: 100
     id: 1
@@ -27,6 +26,3 @@ subtasks:
         output: decode9.ans
       - input: decode10.in
         output: decode10.ans
-langs:
-  - cc.std14o2
-  - cc
