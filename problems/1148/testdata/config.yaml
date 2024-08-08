@@ -1,7 +1,6 @@
 type: default
 time: 2000ms
 memory: 512MB
-filename: galaxy
 subtasks:
   - score: 100
     id: 1
@@ -47,6 +46,3 @@ subtasks:
         output: galaxy19.ans
       - input: galaxy20.in
         output: galaxy20.ans
-langs:
-  - cc.std14o2
-  - cc

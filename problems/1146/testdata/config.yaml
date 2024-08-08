@@ -1,7 +1,6 @@
 type: default
 time: 2000ms
 memory: 512MB
-filename: holiday
 subtasks:
   - score: 100
     id: 1
@@ -47,6 +46,3 @@ subtasks:
         output: holiday19.ans
       - input: holiday20.in
         output: holiday20.ans
-langs:
-  - cc.std14o2
-  - cc

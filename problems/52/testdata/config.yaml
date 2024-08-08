@@ -1,7 +1,6 @@
 type: default
 time: 3s
 memory: 512m
-filename: traffic
 subtasks:
   - score: 100
     if: []

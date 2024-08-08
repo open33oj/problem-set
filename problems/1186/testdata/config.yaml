@@ -1,7 +1,6 @@
 type: default
 time: 1000ms
 memory: 512MB
-filename: meow
 checker_type: testlib
 checker: checker.cc
 subtasks:
@@ -49,6 +48,3 @@ subtasks:
         output: meow19.ans
       - input: meow20.in
         output: meow20.ans
-langs:
-  - cc.std14o2
-  - cc

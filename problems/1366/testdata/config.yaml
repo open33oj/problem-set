@@ -1,7 +1,6 @@
 type: default
 time: 2000ms
 memory: 512MB
-filename: run
 subtasks:
   - score: 100
     if: []

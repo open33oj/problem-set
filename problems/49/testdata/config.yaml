@@ -1,7 +1,6 @@
 type: default
 time: 1s
 memory: 512m
-filename: airport
 subtasks:
   - score: 100
     if: []

@@ -1,7 +1,6 @@
 type: default
 time: 3000ms
 memory: 1024MB
-filename: transmit
 subtasks:
   - score: 100
     id: 1
@@ -57,6 +56,3 @@ subtasks:
         output: transmit24.ans
       - input: transmit25.in
         output: transmit25.ans
-langs:
-  - cc.std14o2
-  - cc

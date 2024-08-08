@@ -1,7 +1,6 @@
 type: default
 time: 1000ms
 memory: 512MB
-filename: plant
 subtasks:
   - score: 1
     id: 1
@@ -99,6 +98,3 @@ subtasks:
     cases:
       - input: plant16.in
         output: plant16.ans
-langs:
-  - cc.std14o2
-  - cc

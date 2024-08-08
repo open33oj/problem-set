@@ -1,7 +1,6 @@
 type: default
 time: 2000ms
 memory: 512MB
-filename: match
 subtasks:
   - score: 100
     id: 1
@@ -57,6 +56,3 @@ subtasks:
         output: match24.ans
       - input: match25.in
         output: match25.ans
-langs:
-  - cc.std14o2
-  - cc

@@ -1,7 +1,6 @@
 type: default
 time: 1000ms
 memory: 512MB
-filename: barrack
 subtasks:
   - score: 100
     id: 1
@@ -47,6 +46,3 @@ subtasks:
         output: barrack19.ans
       - input: barrack20.in
         output: barrack20.ans
-langs:
-  - cc.std14o2
-  - cc

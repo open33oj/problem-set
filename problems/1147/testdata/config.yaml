@@ -1,7 +1,6 @@
 type: default
 time: 1000ms
 memory: 512MB
-filename: game
 subtasks:
   - score: 100
     id: 1
@@ -47,6 +46,3 @@ subtasks:
         output: game19.ans
       - input: game20.in
         output: game20.ans
-langs:
-  - cc.std14o2
-  - cc
