@@ -1,0 +1,40 @@
+type: default
+time: 2000ms
+memory: 1024MB
+subtasks:
+  - score: 50
+    if: []
+    id: 0
+    type: min
+    cases:
+      - input: 0_00.in
+        output: 0_00.out
+      - input: 0_01.in
+        output: 0_01.out
+      - input: 0_02.in
+        output: 0_02.out
+  - score: 50
+    if: []
+    id: 1
+    type: min
+    cases:
+      - input: 1_00.in
+        output: 1_00.out
+      - input: 1_01.in
+        output: 1_01.out
+      - input: 1_02.in
+        output: 1_02.out
+      - input: 1_03.in
+        output: 1_03.out
+      - input: 1_04.in
+        output: 1_04.out
+      - input: 1_05.in
+        output: 1_05.out
+      - input: 1_06.in
+        output: 1_06.out
+      - input: 1_07.in
+        output: 1_07.out
+      - input: 1_08.in
+        output: 1_08.out
+      - input: 1_09.in
+        output: 1_09.out

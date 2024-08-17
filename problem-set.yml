@@ -692,3 +692,385 @@ D0100:
   - '2016'
   - B
   title: 天天爱跑步
+D0101:
+  docId: 156
+  tag:
+  - NOIP
+  - 提高组
+  - '2016'
+  - C
+  title: 换教室
+D0102:
+  docId: 150
+  tag:
+  - NOIP
+  - 提高组
+  - '2016'
+  - D
+  title: 组合数问题
+D0103:
+  docId: 153
+  tag:
+  - NOIP
+  - 提高组
+  - '2016'
+  - E
+  title: 蚯蚓
+D0104:
+  docId: 155
+  tag:
+  - NOIP
+  - 提高组
+  - '2016'
+  - F
+  title: 愤怒的小鸟
+D0105:
+  docId: 91
+  tag:
+  - NOIP
+  - 普及组
+  - '2015'
+  - A
+  title: 金币
+D0106:
+  docId: 93
+  tag:
+  - NOIP
+  - 普及组
+  - '2015'
+  - B
+  title: 扫雷游戏
+D0107:
+  docId: 95
+  tag:
+  - NOIP
+  - 普及组
+  - '2015'
+  - C
+  title: 推销员
+D0108:
+  docId: 98
+  tag:
+  - NOIP
+  - 普及组
+  - '2015'
+  - D
+  title: 求和
+D0109:
+  docId: 140
+  tag:
+  - NOIP
+  - 提高组
+  - '2015'
+  - A
+  title: 神奇的幻方
+D0110:
+  docId: 143
+  tag:
+  - NOIP
+  - 提高组
+  - '2015'
+  - B
+  title: 信息传递
+D0111:
+  docId: 147
+  tag:
+  - NOIP
+  - 提高组
+  - '2015'
+  - C
+  title: 斗地主
+D0112:
+  docId: 146
+  tag:
+  - NOIP
+  - 提高组
+  - '2015'
+  - D
+  title: 跳石头
+D0113:
+  docId: 141
+  tag:
+  - NOIP
+  - 提高组
+  - '2015'
+  - E
+  title: 子串
+D0114:
+  docId: 144
+  tag:
+  - NOIP
+  - 提高组
+  - '2015'
+  - F
+  title: 运输计划
+D0115:
+  docId: 148
+  tag:
+  - NOIP
+  - 提高组
+  - '2014'
+  - A
+  title: 生活大爆炸版石头剪刀布
+D0116:
+  docId: 149
+  tag:
+  - NOIP
+  - 提高组
+  - '2014'
+  - B
+  title: 联合权值
+D0117:
+  docId: 152
+  tag:
+  - NOIP
+  - 提高组
+  - '2014'
+  - C
+  title: 飞扬的小鸟
+D0118:
+  docId: 139
+  tag:
+  - NOIP
+  - 提高组
+  - '2014'
+  - D
+  title: 无线网络发射器选址
+D0119:
+  docId: 142
+  tag:
+  - NOIP
+  - 提高组
+  - '2014'
+  - E
+  title: 寻找道路
+D0120:
+  docId: 145
+  tag:
+  - NOIP
+  - 提高组
+  - '2014'
+  - F
+  title: 解方程
+D0121:
+  docId: 130
+  tag:
+  - NOIP
+  - 提高组
+  - '2013'
+  - A
+  title: 转圈游戏
+D0122:
+  docId: 131
+  tag:
+  - NOIP
+  - 提高组
+  - '2013'
+  - B
+  title: 火柴排队
+D0123:
+  docId: 132
+  tag:
+  - NOIP
+  - 提高组
+  - '2013'
+  - C
+  title: 货车运输
+D0124:
+  docId: 136
+  tag:
+  - NOIP
+  - 提高组
+  - '2013'
+  - D
+  title: 积木大赛
+D0125:
+  docId: 137
+  tag:
+  - NOIP
+  - 提高组
+  - '2013'
+  - E
+  title: 花匠
+D0126:
+  docId: 138
+  tag:
+  - NOIP
+  - 提高组
+  - '2013'
+  - F
+  title: 华容道
+D0127:
+  docId: 127
+  tag:
+  - NOIP
+  - 提高组
+  - '2012'
+  - A
+  title: Vigenère 密码
+D0128:
+  docId: 128
+  tag:
+  - NOIP
+  - 提高组
+  - '2012'
+  - B
+  title: 国王游戏
+D0129:
+  docId: 129
+  tag:
+  - NOIP
+  - 提高组
+  - '2012'
+  - C
+  title: 开车旅行
+D0130:
+  docId: 133
+  tag:
+  - NOIP
+  - 提高组
+  - '2012'
+  - D
+  title: 同余方程 (Congruence Equation)
+D0131:
+  docId: 134
+  tag:
+  - NOIP
+  - 提高组
+  - '2012'
+  - E
+  title: 借教室
+D0132:
+  docId: 135
+  tag:
+  - NOIP
+  - 提高组
+  - '2012'
+  - F
+  title: 疫情控制
+D0133:
+  docId: 1446
+  tag:
+  - atcoder
+  - dp
+  - A
+  title: Frog 1
+D0134:
+  docId: 1447
+  tag:
+  - atcoder
+  - dp
+  - B
+  title: Frog 2
+D0135:
+  docId: 1448
+  tag:
+  - atcoder
+  - dp
+  - C
+  title: 'Vacation '
+D0136:
+  docId: 1449
+  tag:
+  - atcoder
+  - dp
+  - D
+  title: Knapsack 1
+D0137:
+  docId: 1450
+  tag:
+  - atcoder
+  - dp
+  - E
+  title: Knapsack 2
+D0138:
+  docId: 1451
+  tag:
+  - atcoder
+  - dp
+  - F
+  title: LCS
+D0139:
+  docId: 1452
+  tag:
+  - atcoder
+  - dp
+  - G
+  title: Longest Path
+D0140:
+  docId: 1453
+  tag:
+  - atcoder
+  - dp
+  - H
+  title: Grid 1
+D0141:
+  docId: 1454
+  tag:
+  - atcoder
+  - dp
+  - I
+  title: Coins
+D0142:
+  docId: 1455
+  tag:
+  - atcoder
+  - dp
+  - J
+  title: Sushi
+D0143:
+  docId: 1456
+  tag:
+  - atcoder
+  - dp
+  - K
+  title: Stones
+D0144:
+  docId: 1457
+  tag:
+  - atcoder
+  - dp
+  - L
+  title: Deque
+D0145:
+  docId: 1458
+  tag:
+  - atcoder
+  - dp
+  - M
+  title: Candies
+D0146:
+  docId: 1459
+  tag:
+  - atcoder
+  - dp
+  - N
+  title: 'Slimes '
+D0147:
+  docId: 1460
+  tag:
+  - atcoder
+  - dp
+  - O
+  title: Matching
+D0148:
+  docId: 1461
+  tag:
+  - atcoder
+  - dp
+  - P
+  title: Independent Set
+D0149:
+  docId: 1462
+  tag:
+  - atcoder
+  - dp
+  - Q
+  title: Flowers
+D0150:
+  docId: 1463
+  tag:
+  - atcoder
+  - dp
+  - R
+  title: Walk
