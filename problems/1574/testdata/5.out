@@ -1,0 +1,2 @@
+freopen("wotojo.in", "r", stdin);
+freopen("wotojo.out", "w", stdout);

@@ -1,0 +1,49 @@
+type: default
+checker_type: testlib
+checker: spj_cpp17.cpp
+subtasks:
+  - score: 100
+    if: []
+    id: 1
+    type: sum
+    cases:
+      - input: data00.in
+        output: data00.out
+      - input: data01.in
+        output: data01.out
+      - input: data02.in
+        output: data02.out
+      - input: data03.in
+        output: data03.out
+      - input: data04.in
+        output: data04.out
+      - input: data05.in
+        output: data05.out
+      - input: data06.in
+        output: data06.out
+      - input: data07.in
+        output: data07.out
+      - input: data08.in
+        output: data08.out
+      - input: data09.in
+        output: data09.out
+      - input: data10.in
+        output: data10.out
+      - input: data11.in
+        output: data11.out
+      - input: data12.in
+        output: data12.out
+      - input: data13.in
+        output: data13.out
+      - input: data14.in
+        output: data14.out
+      - input: data15.in
+        output: data15.out
+      - input: data16.in
+        output: data16.out
+      - input: data17.in
+        output: data17.out
+      - input: data18.in
+        output: data18.out
+      - input: data19.in
+        output: data19.out

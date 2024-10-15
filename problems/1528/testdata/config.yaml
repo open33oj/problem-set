@@ -1,0 +1,25 @@
+type: default
+checker_type: testlib
+checker: spj.cpp
+subtasks:
+  - score: 30
+    if: []
+    id: 1
+    type: min
+    cases:
+      - input: 1.in
+        output: 1.out
+  - score: 30
+    if: []
+    id: 2
+    type: min
+    cases:
+      - input: 2.in
+        output: 2.out
+  - score: 40
+    if: []
+    id: 3
+    type: min
+    cases:
+      - input: 3.in
+        output: 3.out

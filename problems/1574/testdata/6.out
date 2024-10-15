@@ -1,0 +1,2 @@
+freopen("dai.in", "r", stdin);
+freopen("dai.out", "w", stdout);

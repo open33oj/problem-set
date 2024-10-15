@@ -1,0 +1,2 @@
+freopen("akioi.in", "r", stdin);
+freopen("akioi.out", "w", stdout);

@@ -1,0 +1,26 @@
+type: default
+filename: dir
+subtasks:
+  - score: 60
+    if: []
+    id: 1
+    type: min
+    cases:
+      - input: 1-1.in
+        output: 1-1.out
+      - input: 1-2.in
+        output: 1-2.out
+      - input: 1-3.in
+        output: 1-3.out
+  - score: 40
+    if:
+      - 1
+    id: 2
+    type: min
+    cases:
+      - input: 2-1.in
+        output: 2-1.out
+      - input: 2-2.in
+        output: 2-2.out
+      - input: 2-3.in
+        output: 2-3.out
