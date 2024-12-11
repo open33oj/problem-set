@@ -1,6 +1,6 @@
 # problem-set
 
-[Github](https://gitee.com/wood3_admin/problem-set)、[Gitee](https://gitee.com/wood3_admin/problem-set)
+[Github](https://github.com/open33oj/problem-set)、[Gitee](https://gitee.com/wood3_admin/problem-set)
 
 33OJ 主域题目
 
