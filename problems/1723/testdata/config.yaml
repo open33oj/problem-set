@@ -1,0 +1,60 @@
+type: default
+time: 2000ms
+memory: 1024MB
+filename: query
+subtasks:
+  - score: 100
+    if: []
+    id: 1
+    type: sum
+    cases:
+      - input: lca1.in
+        output: lca1.ans
+      - input: lca2.in
+        output: lca2.ans
+      - input: lca3.in
+        output: lca3.ans
+      - input: lca4.in
+        output: lca4.ans
+      - input: lca5.in
+        output: lca5.ans
+      - input: lca6.in
+        output: lca6.ans
+      - input: lca7.in
+        output: lca7.ans
+      - input: lca8.in
+        output: lca8.ans
+      - input: lca9.in
+        output: lca9.ans
+      - input: lca10.in
+        output: lca10.ans
+      - input: lca11.in
+        output: lca11.ans
+      - input: lca12.in
+        output: lca12.ans
+      - input: lca13.in
+        output: lca13.ans
+      - input: lca14.in
+        output: lca14.ans
+      - input: lca15.in
+        output: lca15.ans
+      - input: lca16.in
+        output: lca16.ans
+      - input: lca17.in
+        output: lca17.ans
+      - input: lca18.in
+        output: lca18.ans
+      - input: lca19.in
+        output: lca19.ans
+      - input: lca20.in
+        output: lca20.ans
+      - input: lca21.in
+        output: lca21.ans
+      - input: lca22.in
+        output: lca22.ans
+      - input: lca23.in
+        output: lca23.ans
+      - input: lca24.in
+        output: lca24.ans
+      - input: lca25.in
+        output: lca25.ans

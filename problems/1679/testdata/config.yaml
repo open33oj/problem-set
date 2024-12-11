@@ -1,0 +1,19 @@
+type: default
+time: 1000ms
+memory: 512MB
+subtasks:
+  - score: 100
+    if: []
+    id: 1
+    type: sum
+    cases:
+      - input: 1.in
+        output: 1.out
+      - input: 2.in
+        output: 2.out
+      - input: 3.in
+        output: 3.out
+      - input: 4.in
+        output: 4.out
+      - input: 5.in
+        output: 5.out

@@ -1,0 +1,30 @@
+type: default
+time: 1000ms
+memory: 512MB
+filename: sticks
+subtasks:
+  - score: 100
+    if: []
+    id: 1
+    type: sum
+    cases:
+      - input: sticks1.in
+        output: sticks1.ans
+      - input: sticks2.in
+        output: sticks2.ans
+      - input: sticks3.in
+        output: sticks3.ans
+      - input: sticks4.in
+        output: sticks4.ans
+      - input: sticks5.in
+        output: sticks5.ans
+      - input: sticks6.in
+        output: sticks6.ans
+      - input: sticks7.in
+        output: sticks7.ans
+      - input: sticks8.in
+        output: sticks8.ans
+      - input: sticks9.in
+        output: sticks9.ans
+      - input: sticks10.in
+        output: sticks10.ans

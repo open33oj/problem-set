@@ -1,0 +1,66 @@
+type: default
+filename: wei
+subtasks:
+  - score: 10
+    if: []
+    id: 1
+    type: min
+    cases:
+      - input: 1-1.in
+        output: 1-1.out
+      - input: 1-2.in
+        output: 1-2.out
+  - score: 20
+    if: []
+    id: 2
+    type: min
+    cases:
+      - input: 2-1.in
+        output: 2-1.out
+      - input: 2-2.in
+        output: 2-2.out
+      - input: 2-3.in
+        output: 2-3.out
+  - score: 30
+    if: []
+    id: 3
+    type: min
+    cases:
+      - input: 3-1.in
+        output: 3-1.out
+      - input: 3-2.in
+        output: 3-2.out
+      - input: 3-3.in
+        output: 3-3.out
+  - score: 40
+    if:
+      - 1
+      - 2
+      - 3
+    id: 4
+    type: min
+    cases:
+      - input: 4-1.in
+        output: 4-1.out
+      - input: 4-2.in
+        output: 4-2.out
+      - input: 4-3.in
+        output: 4-3.out
+      - input: 4-4.in
+        output: 4-4.out
+      - input: 4-5.in
+        output: 4-5.out
+      - input: 4-6.in
+        output: 4-6.out
+      - input: 4-7.in
+        output: 4-7.out
+      - input: 4-8.in
+        output: 4-8.out
+      - input: 4-9.in
+        output: 4-9.out
+      - input: 4-10.in
+        output: 4-10.out
+      - input: 4-11.in
+        output: 4-11.out
+      - input: 4-12.in
+        output: 4-12.out

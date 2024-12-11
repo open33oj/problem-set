@@ -1,0 +1,31 @@
+type: default
+time: 2000ms
+memory: 512MB
+subtasks:
+  - time: 2000ms
+    memory: 1024MB
+    score: 100
+    if: []
+    id: 1
+    type: sum
+    cases:
+      - input: data0.in
+        output: data0.out
+      - input: data1.in
+        output: data1.out
+      - input: data2.in
+        output: data2.out
+      - input: data3.in
+        output: data3.out
+      - input: data4.in
+        output: data4.out
+      - input: data5.in
+        output: data5.out
+      - input: data6.in
+        output: data6.out
+      - input: data7.in
+        output: data7.out
+      - input: data8.in
+        output: data8.out
+      - input: data9.in
+        output: data9.out

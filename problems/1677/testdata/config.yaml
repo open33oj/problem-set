@@ -1,0 +1,9 @@
+type: default
+subtasks:
+  - score: 100
+    if: []
+    id: 1
+    type: sum
+    cases:
+      - input: 1.in
+        output: 1.out

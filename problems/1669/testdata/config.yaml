@@ -1,0 +1,30 @@
+type: default
+time: 1000ms
+memory: 512MB
+filename: poker
+subtasks:
+  - score: 100
+    if: []
+    id: 1
+    type: sum
+    cases:
+      - input: poker1.in
+        output: poker1.ans
+      - input: poker2.in
+        output: poker2.ans
+      - input: poker3.in
+        output: poker3.ans
+      - input: poker4.in
+        output: poker4.ans
+      - input: poker5.in
+        output: poker5.ans
+      - input: poker6.in
+        output: poker6.ans
+      - input: poker7.in
+        output: poker7.ans
+      - input: poker8.in
+        output: poker8.ans
+      - input: poker9.in
+        output: poker9.ans
+      - input: poker10.in
+        output: poker10.ans

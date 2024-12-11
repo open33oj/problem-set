@@ -1,0 +1,93 @@
+type: default
+time: 1000ms
+memory: 256MB
+subtasks:
+  - score: 30
+    if: []
+    id: 1
+    type: min
+    cases:
+      - input: 1-1.in
+        output: 1-1.out
+  - score: 30
+    if: []
+    id: 2
+    type: min
+    cases:
+      - input: 2-1.in
+        output: 2-1.out
+      - input: 2-2.in
+        output: 2-2.out
+      - input: 2-3.in
+        output: 2-3.out
+      - input: 2-4.in
+        output: 2-4.out
+      - input: 2-5.in
+        output: 2-5.out
+      - input: 2-6.in
+        output: 2-6.out
+      - input: 2-7.in
+        output: 2-7.out
+      - input: 2-8.in
+        output: 2-8.out
+      - input: 2-9.in
+        output: 2-9.out
+      - input: 2-10.in
+        output: 2-10.out
+      - input: 2-11.in
+        output: 2-11.out
+      - input: 2-12.in
+        output: 2-12.out
+      - input: 2-13.in
+        output: 2-13.out
+      - input: 2-14.in
+        output: 2-14.out
+      - input: 2-15.in
+        output: 2-15.out
+      - input: 2-16.in
+        output: 2-16.out
+      - input: 2-17.in
+        output: 2-17.out
+      - input: 2-18.in
+        output: 2-18.out
+      - input: 2-19.in
+        output: 2-19.out
+      - input: 2-20.in
+        output: 2-20.out
+      - input: 2-21.in
+        output: 2-21.out
+      - input: 2-22.in
+        output: 2-22.out
+      - input: 2-23.in
+        output: 2-23.out
+      - input: 2-24.in
+        output: 2-24.out
+      - input: 2-25.in
+        output: 2-25.out
+  - score: 40
+    if:
+      - 1
+      - 2
+    id: 3
+    type: min
+    cases:
+      - input: 3-1.in
+        output: 3-1.out
+      - input: 3-2.in
+        output: 3-2.out
+      - input: 3-3.in
+        output: 3-3.out
+      - input: 3-4.in
+        output: 3-4.out
+      - input: 3-5.in
+        output: 3-5.out
+      - input: 3-6.in
+        output: 3-6.out
+      - input: 3-7.in
+        output: 3-7.out
+      - input: 3-8.in
+        output: 3-8.out
+      - input: 3-9.in
+        output: 3-9.out
+      - input: 3-10.in
+        output: 3-10.out

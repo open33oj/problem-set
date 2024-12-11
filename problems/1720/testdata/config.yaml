@@ -1,0 +1,50 @@
+type: default
+time: 1000ms
+memory: 512MB
+filename: edit
+subtasks:
+  - score: 100
+    if: []
+    id: 1
+    type: sum
+    cases:
+      - input: edit1.in
+        output: edit1.ans
+      - input: edit2.in
+        output: edit2.ans
+      - input: edit3.in
+        output: edit3.ans
+      - input: edit4.in
+        output: edit4.ans
+      - input: edit5.in
+        output: edit5.ans
+      - input: edit6.in
+        output: edit6.ans
+      - input: edit7.in
+        output: edit7.ans
+      - input: edit8.in
+        output: edit8.ans
+      - input: edit9.in
+        output: edit9.ans
+      - input: edit10.in
+        output: edit10.ans
+      - input: edit11.in
+        output: edit11.ans
+      - input: edit12.in
+        output: edit12.ans
+      - input: edit13.in
+        output: edit13.ans
+      - input: edit14.in
+        output: edit14.ans
+      - input: edit15.in
+        output: edit15.ans
+      - input: edit16.in
+        output: edit16.ans
+      - input: edit17.in
+        output: edit17.ans
+      - input: edit18.in
+        output: edit18.ans
+      - input: edit19.in
+        output: edit19.ans
+      - input: edit20.in
+        output: edit20.ans

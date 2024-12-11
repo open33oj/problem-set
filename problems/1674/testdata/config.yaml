@@ -1,0 +1,30 @@
+type: default
+time: 2000ms
+memory: 512MB
+filename: detect
+subtasks:
+  - score: 100
+    if: []
+    id: 1
+    type: sum
+    cases:
+      - input: detect1.in
+        output: detect1.ans
+      - input: detect2.in
+        output: detect2.ans
+      - input: detect3.in
+        output: detect3.ans
+      - input: detect4.in
+        output: detect4.ans
+      - input: detect5.in
+        output: detect5.ans
+      - input: detect6.in
+        output: detect6.ans
+      - input: detect7.in
+        output: detect7.ans
+      - input: detect8.in
+        output: detect8.ans
+      - input: detect9.in
+        output: detect9.ans
+      - input: detect10.in
+        output: detect10.ans

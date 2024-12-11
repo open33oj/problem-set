@@ -1,0 +1,50 @@
+type: default
+time: 1000ms
+memory: 512MB
+filename: assign
+subtasks:
+  - score: 100
+    if: []
+    id: 1
+    type: sum
+    cases:
+      - input: assign1.in
+        output: assign1.ans
+      - input: assign2.in
+        output: assign2.ans
+      - input: assign3.in
+        output: assign3.ans
+      - input: assign4.in
+        output: assign4.ans
+      - input: assign5.in
+        output: assign5.ans
+      - input: assign6.in
+        output: assign6.ans
+      - input: assign7.in
+        output: assign7.ans
+      - input: assign8.in
+        output: assign8.ans
+      - input: assign9.in
+        output: assign9.ans
+      - input: assign10.in
+        output: assign10.ans
+      - input: assign11.in
+        output: assign11.ans
+      - input: assign12.in
+        output: assign12.ans
+      - input: assign13.in
+        output: assign13.ans
+      - input: assign14.in
+        output: assign14.ans
+      - input: assign15.in
+        output: assign15.ans
+      - input: assign16.in
+        output: assign16.ans
+      - input: assign17.in
+        output: assign17.ans
+      - input: assign18.in
+        output: assign18.ans
+      - input: assign19.in
+        output: assign19.ans
+      - input: assign20.in
+        output: assign20.ans

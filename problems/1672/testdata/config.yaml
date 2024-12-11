@@ -1,0 +1,50 @@
+type: default
+time: 2000ms
+memory: 512MB
+filename: chain
+subtasks:
+  - score: 100
+    if: []
+    id: 1
+    type: sum
+    cases:
+      - input: chain1.in
+        output: chain1.ans
+      - input: chain2.in
+        output: chain2.ans
+      - input: chain3.in
+        output: chain3.ans
+      - input: chain4.in
+        output: chain4.ans
+      - input: chain5.in
+        output: chain5.ans
+      - input: chain6.in
+        output: chain6.ans
+      - input: chain7.in
+        output: chain7.ans
+      - input: chain8.in
+        output: chain8.ans
+      - input: chain9.in
+        output: chain9.ans
+      - input: chain10.in
+        output: chain10.ans
+      - input: chain11.in
+        output: chain11.ans
+      - input: chain12.in
+        output: chain12.ans
+      - input: chain13.in
+        output: chain13.ans
+      - input: chain14.in
+        output: chain14.ans
+      - input: chain15.in
+        output: chain15.ans
+      - input: chain16.in
+        output: chain16.ans
+      - input: chain17.in
+        output: chain17.ans
+      - input: chain18.in
+        output: chain18.ans
+      - input: chain19.in
+        output: chain19.ans
+      - input: chain20.in
+        output: chain20.ans

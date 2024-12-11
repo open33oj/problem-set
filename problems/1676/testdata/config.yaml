@@ -1,0 +1,59 @@
+type: default
+memory: 512MB
+filename: arena
+subtasks:
+  - score: 100
+    if: []
+    id: 1
+    type: sum
+    cases:
+      - input: arena1.in
+        output: arena1.ans
+      - input: arena2.in
+        output: arena2.ans
+      - input: arena3.in
+        output: arena3.ans
+      - input: arena4.in
+        output: arena4.ans
+      - input: arena5.in
+        output: arena5.ans
+      - input: arena6.in
+        output: arena6.ans
+      - input: arena7.in
+        output: arena7.ans
+      - input: arena8.in
+        output: arena8.ans
+      - input: arena9.in
+        output: arena9.ans
+      - input: arena10.in
+        output: arena10.ans
+      - input: arena11.in
+        output: arena11.ans
+      - input: arena12.in
+        output: arena12.ans
+      - input: arena13.in
+        output: arena13.ans
+      - input: arena14.in
+        output: arena14.ans
+      - input: arena15.in
+        output: arena15.ans
+      - input: arena16.in
+        output: arena16.ans
+      - input: arena17.in
+        output: arena17.ans
+      - input: arena18.in
+        output: arena18.ans
+      - input: arena19.in
+        output: arena19.ans
+      - input: arena20.in
+        output: arena20.ans
+      - input: arena21.in
+        output: arena21.ans
+      - input: arena22.in
+        output: arena22.ans
+      - input: arena23.in
+        output: arena23.ans
+      - input: arena24.in
+        output: arena24.ans
+      - input: arena25.in
+        output: arena25.ans

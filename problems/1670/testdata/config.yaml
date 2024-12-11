@@ -1,0 +1,30 @@
+type: default
+time: 1000ms
+memory: 512MB
+filename: explore
+subtasks:
+  - score: 100
+    if: []
+    id: 1
+    type: sum
+    cases:
+      - input: explore1.in
+        output: explore1.ans
+      - input: explore2.in
+        output: explore2.ans
+      - input: explore3.in
+        output: explore3.ans
+      - input: explore4.in
+        output: explore4.ans
+      - input: explore5.in
+        output: explore5.ans
+      - input: explore6.in
+        output: explore6.ans
+      - input: explore7.in
+        output: explore7.ans
+      - input: explore8.in
+        output: explore8.ans
+      - input: explore9.in
+        output: explore9.ans
+      - input: explore10.in
+        output: explore10.ans

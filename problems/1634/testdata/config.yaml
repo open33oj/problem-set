@@ -1,0 +1,67 @@
+type: default
+memory: 512MB
+filename: an
+subtasks:
+  - score: 10
+    if: []
+    id: 1
+    type: min
+    cases:
+      - input: 1-1.in
+        output: 1-1.out
+      - input: 1-2.in
+        output: 1-2.out
+      - input: 1-3.in
+        output: 1-3.out
+      - input: 1-4.in
+        output: 1-4.out
+      - input: 1-5.in
+        output: 1-5.out
+  - score: 20
+    if: []
+    id: 2
+    type: min
+    cases:
+      - input: 2-1.in
+        output: 2-1.out
+      - input: 2-2.in
+        output: 2-2.out
+      - input: 2-3.in
+        output: 2-3.out
+      - input: 2-4.in
+        output: 2-4.out
+      - input: 2-5.in
+        output: 2-5.out
+  - score: 30
+    if: []
+    id: 3
+    type: min
+    cases:
+      - input: 3-1.in
+        output: 3-1.out
+      - input: 3-2.in
+        output: 3-2.out
+      - input: 3-3.in
+        output: 3-3.out
+      - input: 3-4.in
+        output: 3-4.out
+      - input: 3-5.in
+        output: 3-5.out
+  - score: 40
+    if:
+      - 1
+      - 2
+      - 3
+    id: 4
+    type: min
+    cases:
+      - input: 4-1.in
+        output: 4-1.out
+      - input: 4-2.in
+        output: 4-2.out
+      - input: 4-3.in
+        output: 4-3.out
+      - input: 4-4.in
+        output: 4-4.out
+      - input: 4-5.in
+        output: 4-5.out

@@ -1,0 +1,50 @@
+type: default
+time: 1000ms
+memory: 512MB
+filename: duel
+subtasks:
+  - score: 100
+    if: []
+    id: 1
+    type: sum
+    cases:
+      - input: duel1.in
+        output: duel1.ans
+      - input: duel2.in
+        output: duel2.ans
+      - input: duel3.in
+        output: duel3.ans
+      - input: duel4.in
+        output: duel4.ans
+      - input: duel5.in
+        output: duel5.ans
+      - input: duel6.in
+        output: duel6.ans
+      - input: duel7.in
+        output: duel7.ans
+      - input: duel8.in
+        output: duel8.ans
+      - input: duel9.in
+        output: duel9.ans
+      - input: duel10.in
+        output: duel10.ans
+      - input: duel11.in
+        output: duel11.ans
+      - input: duel12.in
+        output: duel12.ans
+      - input: duel13.in
+        output: duel13.ans
+      - input: duel14.in
+        output: duel14.ans
+      - input: duel15.in
+        output: duel15.ans
+      - input: duel16.in
+        output: duel16.ans
+      - input: duel17.in
+        output: duel17.ans
+      - input: duel18.in
+        output: duel18.ans
+      - input: duel19.in
+        output: duel19.ans
+      - input: duel20.in
+        output: duel20.ans

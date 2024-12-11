@@ -1,0 +1,60 @@
+type: default
+time: 1000ms
+memory: 512MB
+filename: traverse
+subtasks:
+  - score: 100
+    if: []
+    id: 1
+    type: sum
+    cases:
+      - input: traverse1.in
+        output: traverse1.ans
+      - input: traverse2.in
+        output: traverse2.ans
+      - input: traverse3.in
+        output: traverse3.ans
+      - input: traverse4.in
+        output: traverse4.ans
+      - input: traverse5.in
+        output: traverse5.ans
+      - input: traverse6.in
+        output: traverse6.ans
+      - input: traverse7.in
+        output: traverse7.ans
+      - input: traverse8.in
+        output: traverse8.ans
+      - input: traverse9.in
+        output: traverse9.ans
+      - input: traverse10.in
+        output: traverse10.ans
+      - input: traverse11.in
+        output: traverse11.ans
+      - input: traverse12.in
+        output: traverse12.ans
+      - input: traverse13.in
+        output: traverse13.ans
+      - input: traverse14.in
+        output: traverse14.ans
+      - input: traverse15.in
+        output: traverse15.ans
+      - input: traverse16.in
+        output: traverse16.ans
+      - input: traverse17.in
+        output: traverse17.ans
+      - input: traverse18.in
+        output: traverse18.ans
+      - input: traverse19.in
+        output: traverse19.ans
+      - input: traverse20.in
+        output: traverse20.ans
+      - input: traverse21.in
+        output: traverse21.ans
+      - input: traverse22.in
+        output: traverse22.ans
+      - input: traverse23.in
+        output: traverse23.ans
+      - input: traverse24.in
+        output: traverse24.ans
+      - input: traverse25.in
+        output: traverse25.ans

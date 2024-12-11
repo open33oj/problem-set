@@ -1,0 +1,49 @@
+type: default
+memory: 512MB
+filename: color
+subtasks:
+  - score: 100
+    if: []
+    id: 1
+    type: sum
+    cases:
+      - input: color1.in
+        output: color1.ans
+      - input: color2.in
+        output: color2.ans
+      - input: color3.in
+        output: color3.ans
+      - input: color4.in
+        output: color4.ans
+      - input: color5.in
+        output: color5.ans
+      - input: color6.in
+        output: color6.ans
+      - input: color7.in
+        output: color7.ans
+      - input: color8.in
+        output: color8.ans
+      - input: color9.in
+        output: color9.ans
+      - input: color10.in
+        output: color10.ans
+      - input: color11.in
+        output: color11.ans
+      - input: color12.in
+        output: color12.ans
+      - input: color13.in
+        output: color13.ans
+      - input: color14.in
+        output: color14.ans
+      - input: color15.in
+        output: color15.ans
+      - input: color16.in
+        output: color16.ans
+      - input: color17.in
+        output: color17.ans
+      - input: color18.in
+        output: color18.ans
+      - input: color19.in
+        output: color19.ans
+      - input: color20.in
+        output: color20.ans
